@@ -1,12 +1,5 @@
-This is the readme for group 12's averaging program
+This is the readme for group 12's averaging package.
 
-The program wil work as follows:
+The function of the package is to average values in the columns of CSV files.
 
-There will be one main function, csv_avg()
-
-INPUT:
-	filename.csv (string)
-	headers = True (checks for headers, keeps them if True)
-
-OUTPUT:
-	avg_filename.csv
+Please let me know via comments and issues if you discover any bugs.
